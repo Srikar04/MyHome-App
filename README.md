@@ -38,6 +38,6 @@ Contributions are welcome! Feel free to submit pull requests for improvements, b
 
 ## Credits 🙌
 
-My Home App was developed with dedication and attention to detail by [Your Name].
+My Home App was developed with dedication and attention to detail by Srikar04.
 
 Make home management a breeze! 🏠🔧
